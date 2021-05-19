@@ -1,0 +1,12 @@
+# x="[abc]" either a or b or c
+# x="[^abcd]"  except abc
+# x="[a-z]"  a to z
+# x="[A-Z]" A to Z
+# x="[a-zA-Z]"  both lower and upper case
+# x="[0-9]" check digits
+# x="[^a-zA-Z0-9]"  special symbols
+# x = "[\s]" check space
+# x = "[\d]"  check the didgits
+# x = "[\D]" except digits
+# x = "[\w]" all words except special characters
+# x = "[\W]" for all special characters
